@@ -9531,7 +9531,14 @@ which@^2.0.1:
   dependencies:
     isexe "^2.0.0"
 
-white-web-sdk@^2.16.37:
+white-react-sdk@^2.16.37:
+  version "2.16.37"
+  resolved "https://registry.npmmirror.com/white-react-sdk/-/white-react-sdk-2.16.37.tgz#5439c539696d73ca6511492dabeeefa988d0bd39"
+  integrity sha512-ZzbHMYLq6G/psDr5eTY/JtFfr4X54C5Q92TpuC78svTP0vLvoI9Lt0X1ImQN9pd6yxz4IawWvT/Kf6v0YJaElw==
+  dependencies:
+    white-web-sdk "2.16.37"
+
+white-web-sdk@2.16.37, white-web-sdk@^2.16.37:
   version "2.16.37"
   resolved "https://registry.npmmirror.com/white-web-sdk/-/white-web-sdk-2.16.37.tgz#598bdfedc903fd3dc4f2a5a20afe33ed873332ae"
   integrity sha512-hpx8merZN56f7KDNHXRxIU+j5xIB9fCAPHQBBlbcrojHlAt0kTPKbgzq5VGcvM9hI400FHsGU67XrwdOyjyglg==
